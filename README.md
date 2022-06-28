@@ -8,14 +8,7 @@
 
 </div>
 
-# Profile
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hoon-T&fontSize=45)
-
-</div>
-
-## 👨‍💻 HoonT | 김도형
+# 👨‍💻 HoonT | 김도형
 
 <details >
 <summary> 😎 Tags about ME </summary><br/>
@@ -37,13 +30,17 @@
 
 </details>
 
+---
+
 ## 🛠 Skills
 
-### Language
+#### Language
 ![Python][Python] ![Java][Java]
-### IDE
+#### IDE
 ![Visual Studio Code][Visual Studio Code]
-### Collaboration
+#### Collaboration
+
+---
 
 ## ✡️ Boj stats
 
