@@ -8,14 +8,14 @@
 
 </div>
 
-## Profile
+# Profile
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hoon-T&fontSize=45)
 
 </div>
 
-## HoonT | 김도형
+## 👨‍💻 HoonT | 김도형
 
 <details >
 <summary> 😎 Tags about ME </summary><br/>
@@ -37,15 +37,6 @@
 
 </details>
 
-## ✡️ Boj stats
-
-<div align="center">
-
-[![Solved.ac
-profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbkhkyg)](https://solved.ac/wbkhkyg)  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=wbkhkyg&theme=warm)](https://solved.ac/profile/wbkhkyg)
- 
-</div>
-
 ## 🛠 Skills
 
 ### Language
@@ -54,6 +45,14 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbkhkyg)](https://sol
 ![Visual Studio Code][Visual Studio Code]
 ### Collaboration
 
+## ✡️ Boj stats
+
+<div align="center">
+
+[![Solved.ac
+profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbkhkyg)](https://solved.ac/wbkhkyg)  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=wbkhkyg&theme=warm)](https://solved.ac/profile/wbkhkyg)
+ 
+</div>
 
 ## GitHub stats
 
