@@ -45,7 +45,7 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbkhkyg)](https://sol
  
 </div>
 
-## GitHub stats
+## 🔯 GitHub stats
 
 <div align="center">
   
