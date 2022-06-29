@@ -29,11 +29,13 @@
 ## 🛠 Skills
 
 #### Language
-![Python][Python] ![Java][Java]
+![Python][Python] 
+
 #### IDE
 ![Visual Studio Code][Visual Studio Code]
-#### Collaboration
 
+#### ~ING
+![Java][Java]
 ---
 
 ## ✡️ Boj stats
