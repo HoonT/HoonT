@@ -34,8 +34,12 @@
 #### IDE
 ![Visual Studio Code][Visual Studio Code]
 
+#### Collaboration
+![Git][Git] ![Github][Github]
+
 #### ~ING
-![Java][Java]
+![Java][Java] ![css][css] ![HTML5][HTML5]
+
 ---
 
 ## ✡️ Boj stats
@@ -59,12 +63,17 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbkhkyg)](https://sol
 
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+[css]: https://img.shields.io/badge/css-686de0?style=for-the-badge&logo=css3&logoColor=white
 [JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 
 [NodeJS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Spring]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 [Django]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
+[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white
 
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 
 [Visual Studio Code]: https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white
+
+[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white
+[GitHub]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
