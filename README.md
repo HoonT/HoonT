@@ -35,7 +35,7 @@
 ![Visual Studio Code][Visual Studio Code]
 
 #### Collaboration
-![Git][Git] ![Github][Github]
+![Git][Git] ![Github][Github] ![Slack][Slack]
 
 #### ~ING
 ![Java][Java] ![css][css] ![HTML5][HTML5]
@@ -77,3 +77,4 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbkhkyg)](https://sol
 
 [Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white
 [GitHub]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
+[Slack]: https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white
