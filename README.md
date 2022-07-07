@@ -43,7 +43,8 @@
 
 ---
 
-## ✡️ Boj stats
+## ✡️ Boj stats 
+### [TIL_Boj](https://github.com/HoonT/TIL/blob/main/algorithm/boj)
 
 <div align="center">
 
