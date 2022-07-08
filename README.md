@@ -1,5 +1,10 @@
 <div>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoonT&count_bg=%23A127C2&title_bg=%23474747&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false" align="right" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoonT&count_bg=%23A127C2&title_bg=%23474747&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false" align="right" /> 
+</div>
+
+<div align="right">
+  
+  [![solved.ac tier3](http://mazassumnida.wtf/api/mini/generate_badge?boj=wbkhkyg)](https://solved.ac/wbkhkyg)
 </div>
 
 # 👨‍💻 HoonT | 김도형
@@ -50,6 +55,7 @@
 
 [![Solved.ac
 profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbkhkyg)](https://solved.ac/wbkhkyg)  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=wbkhkyg&theme=warm)](https://solved.ac/profile/wbkhkyg)
+ 
  
 </div>
 
