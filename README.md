@@ -12,9 +12,9 @@
 <details >
 <summary> 🧐 Blogs </summary><br/>
 
-> ## 1️⃣ [Velog](https://velog.io/@hoont2rs)
+> ### 1️⃣ [Velog](https://velog.io/@hoont2rs)
   
-> ## 2️⃣ [Tistory](https://hoont.tistory.com/)
+> ### 2️⃣ [Tistory](https://hoont.tistory.com/)
 
 
 <br/>
@@ -32,7 +32,7 @@
 
 
 <details >
-<summary> 📖 공부 과정</summary><br/>
+<summary> 📖 공부 과정</summary><br/>
 
 - 동국대학교 경주캠퍼스 수학교육과 (2017.03 ~ )
 - 구름 쿠버네티스 5기 (2022.07.08 ~ )
