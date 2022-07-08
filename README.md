@@ -104,7 +104,6 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbkhkyg)](https://sol
 
 [Kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white
 [Linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white
-#092E20
 
 <!--
 [Velog]: https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white
