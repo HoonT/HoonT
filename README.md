@@ -12,9 +12,9 @@
 <details >
 <summary> 🧐 Blogs </summary><br/>
 
-1️⃣ [![Velog][Velog]]([https://velog.io/@hoont2rs)
-
-2️⃣ [Tistory](https://hoont.tistory.com/)
+> ## 1️⃣ [Velog](https://velog.io/@hoont2rs)
+  
+> ## 2️⃣ [Tistory](https://hoont.tistory.com/)
 
 
 <br/>
@@ -102,6 +102,8 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbkhkyg)](https://sol
 [Kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white
 [Linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white
 
+<!--
 [Velog]: https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white
 
 [skill]: https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white
+-->
