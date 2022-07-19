@@ -46,21 +46,22 @@
 ## 🛠 Skills
 
 #### Language
-![Python][Python] 
+![Python][Python] ![Java][Java]
 
-#### Framework
+#### Backend
 ![Django][Django]
 
-#### IDE
-![Visual Studio Code][Visual Studio Code]
+#### DevOps
+![Linux][Linux] ![CentOS][CentOS]
+
 
 #### Collaboration
 ![Git][Git] ![Github][Github] ![Slack][Slack]
+![Visual Studio Code][Visual Studio Code]
 
 #### ~ING
-![Java][Java] ![css][css] ![HTML5][HTML5]
-![Kubernetes][Kubernetes] ![Linux][Linux]
-![Docker][Docker]
+![css][css] ![HTML5][HTML5]
+![Kubernetes][Kubernetes] ![Docker][Docker]
 
 ---
 
@@ -105,6 +106,7 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbkhkyg)](https://sol
 
 [Kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white
 [Linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white
+[CentOS]: https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white
 [Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white
 
 <!--
