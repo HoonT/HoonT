@@ -52,7 +52,7 @@
 ![Django][Django]
 
 #### DevOps
-![Linux][Linux] ![CentOS][CentOS]
+![Linux][Linux] ![CentOS][CentOS] ![AWS][AWS]
 
 
 #### Collaboration
@@ -108,6 +108,7 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbkhkyg)](https://sol
 [Linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white
 [CentOS]: https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white
 [Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white
+[AWS]: https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white
 
 <!--
 [Velog]: https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white
