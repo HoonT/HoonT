@@ -49,7 +49,7 @@
 ![Python][Python] ![Java][Java]
 
 #### Backend
-![Django][Django]
+![Spring][Spring]
 
 #### DevOps
 ![Linux][Linux] ![CentOS][CentOS] ![AWS][AWS]
