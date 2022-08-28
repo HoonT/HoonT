@@ -114,6 +114,6 @@ profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wbkhkyg)](https://sol
 
 <!--
 [Velog]: https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white
-
+1
 [skill]: https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white
 -->
