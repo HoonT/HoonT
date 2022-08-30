@@ -52,7 +52,8 @@
 ![Spring][Spring]
 
 #### DevOps
-![Linux][Linux] ![CentOS][CentOS] ![AWS][AWS]
+![Linux][Linux] ![CentOS][CentOS] 
+![AWS][AWS] ![Docker][Docker]
 
 
 #### Collaboration
@@ -61,7 +62,7 @@
 
 #### ~ING
 ![css][css] ![HTML5][HTML5]
-![Kubernetes][Kubernetes] ![Docker][Docker]
+![Kubernetes][Kubernetes]
 ![Ansible][Ansible]
 
 ---
