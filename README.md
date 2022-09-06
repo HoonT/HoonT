@@ -54,6 +54,7 @@
 #### DevOps
 ![Linux][Linux] ![CentOS][CentOS] 
 ![AWS][AWS] ![Docker][Docker]
+![Kubernetes][Kubernetes] ![Ansible][Ansible]
 
 
 #### Collaboration
@@ -62,8 +63,6 @@
 
 #### ~ING
 ![css][css] ![HTML5][HTML5]
-![Kubernetes][Kubernetes]
-![Ansible][Ansible]
 
 ---
 
